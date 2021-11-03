@@ -1,0 +1,14 @@
+---
+title: "Project Proposal"
+author: "Ryan McNally"
+date: "11/3/2021"
+output: html_document
+---
+
+Name: Ryan McNally
+
+Link to data set: https://zenodo.org/record/3723940#.YYKfGGDMKUk
+
+Overview: This data set contains data from over 40 million tweets collected between March 11 and March 22 2021. This data set was collected in the middle of the COVID-19 pandemic, and hence has many tweets related to the topic. There are several versions of this data (cleaned and unclean, as well as with and without retweetes).
+
+Brief Overview/Plan: First off, I plan on using the UNCLEAN data provided, and will clean it myself to meet the retirements of the projects. I also plan on using the data sets without the retweets just because of the sheer volume of data that needs to be processed. Some of the questions I hope to answer are, what were the prevailing topics that people were tweeting about? What words/buzz-words showed up the most? How did the rate of tweets change as the pandemic progressed? While there are many other ways I could explore the data, this is where I will start, and may expand in the future. 
